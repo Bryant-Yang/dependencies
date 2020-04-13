@@ -4,6 +4,7 @@ version = "0"
 description = ""
 authors = []
 packages = [
+    { include = "app" },
     { include = "helpers.py" },
     { include = "mddoctest.py"},
     { include = "pkg" },

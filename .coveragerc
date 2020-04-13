@@ -4,6 +4,7 @@ parallel = True
 source =
   _dependencies
   dependencies
+  app
   helpers
   mddoctest
   pkg
